@@ -10,11 +10,9 @@ Platina
 for now this is the list
 
 Planes
-Boeng 777
-Boeng 747
-Airbus
 
-Updated from laptop-localrepo
+Removed all the planes
+updated from new branch
 `
 Cars,
 Seltos
